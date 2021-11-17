@@ -12,7 +12,7 @@ const TextStyle bottomTextStyle = TextStyle(
   color: textColor,
 );
 const TextStyle answerTextStyle = TextStyle(
-  fontSize: 40,
+  fontSize: 45,
   color: Colors.white,
   fontWeight: FontWeight.bold,
   letterSpacing: 2,
